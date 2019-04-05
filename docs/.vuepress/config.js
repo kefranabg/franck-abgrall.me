@@ -1,6 +1,9 @@
 module.exports = {
   title: 'Franck Abgrall',
   description: '💻 Fullstack developer',
+  head: [
+    ['link', { rel: 'shortcut icon', href: '/favicon.ico' }]
+  ],
   themeConfig: {
     serviceWorker: {
       updatePopup: true
