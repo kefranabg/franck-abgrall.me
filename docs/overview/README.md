@@ -17,7 +17,7 @@
 
 [**Speaker video playlist :**](https://www.youtube.com/playlist?list=PL_LuVBWbZOItnuoJw5SOIq9QKldsTM1HP)
 
-## Some of my opensource projects
+## Opensource
 
 * [BentoStarter](https://github.com/kefranabg/bento-starter)
 * [This website](https://github.com/kefranabg/franck-abgrall.me)
