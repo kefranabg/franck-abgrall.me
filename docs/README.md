@@ -7,7 +7,7 @@ features:
   - title: 🔧 Easy to setup
     details: Minimal setup, helps you focus on writing amazing code.
   - title: ⚡️ Performant
-    details: Generates optimized, fast and awesome applications using awesome frameworks. 
+    details: Generates optimized, fast and awesome applications using cool frameworks. 
   - title: 🚀 Cross platform
     details: Creates mobile, web, and desktop applications.
 
