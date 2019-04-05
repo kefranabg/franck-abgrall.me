@@ -15,7 +15,7 @@
 
 [**Speaker deck**](https://speakerdeck.com/franckabgrall)
 
-[**Speaker video playlist :**](https://www.youtube.com/playlist?list=PL_LuVBWbZOItnuoJw5SOIq9QKldsTM1HP)
+[**Speaker video playlist**](https://www.youtube.com/playlist?list=PL_LuVBWbZOItnuoJw5SOIq9QKldsTM1HP)
 
 ## Articles
 
