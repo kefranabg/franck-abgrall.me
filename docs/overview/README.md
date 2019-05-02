@@ -21,8 +21,8 @@
 
 <br />
 
-* [Npm vs Yarn](https://blog.zenika.com/2017/03/28/angular-4-0/)
-* [Angular 4.0](https://blog.zenika.com/2017/03/13/npm-vs-yarn/)
+* [Npm vs Yarn](https://blog.zenika.com/2017/03/13/npm-vs-yarn/)
+* [Angular 4.0](https://blog.zenika.com/2017/03/28/angular-4-0/)
 * [Retour sur vue.js Amsterdam 2019](https://blog.zenika.com/2019/03/18/retour-sur-vue-js-amsterdam-2019/)
 * [A full-stack solution for fast PWA development](https://medium.zenika.com/a-full-stack-solution-for-fast-pwa-development-937288b055b8)
 
