@@ -6,7 +6,7 @@
 
 <br />
 
-* NantesJS : Npm vs Yarn 
+* NantesJS 2017 : Npm vs Yarn 
 * Devfest Nantes 2017 : Développez votre première application vuejs
 * SnowCampIO 2018 : Vuejs, redécouvrez le goût des choses simples
 * Breizhcamp 2018 : Vuejs, redécouvrez le goût des choses simples
