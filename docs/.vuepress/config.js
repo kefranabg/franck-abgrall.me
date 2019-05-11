@@ -1,6 +1,7 @@
 module.exports = {
   title: 'Franck Abgrall',
   description: '💻 Fullstack developer',
+  ga: 'UA-75044551-4',
   head: [
     ['link', { rel: 'shortcut icon', href: '/favicon.ico' }]
   ],
