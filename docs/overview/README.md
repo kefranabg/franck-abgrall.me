@@ -32,4 +32,5 @@
 
 * [BentoStarter](https://github.com/kefranabg/bento-starter)
 * [readme-md-generator](https://github.com/kefranabg/readme-md-generator)
+* [VuePress](https://github.com/vuejs/vuepress)
 * [This website](https://github.com/kefranabg/franck-abgrall.me)
