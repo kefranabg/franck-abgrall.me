@@ -33,4 +33,5 @@
 * [BentoStarter](https://github.com/kefranabg/bento-starter)
 * [readme-md-generator](https://github.com/kefranabg/readme-md-generator)
 * [VuePress](https://github.com/vuejs/vuepress)
+* [Open Source promotion cheat sheet](https://github.com/zenika-open-source/open-source-promotion-cheat-sheet)
 * [This website](https://github.com/kefranabg/franck-abgrall.me)
