@@ -12,6 +12,8 @@
 * Breizhcamp 2018 : Vuejs, redécouvrez le goût des choses simples
 * Web2day 2018 : Vuejs, redécouvrez le goût des choses simples 
 * NantesJS 2019 : Retours sur Vue.js Amsterdam 2019
+* NantesJS 2019 : Comment promouvoir son projet open source?
+* Devfest Nantes 2019 : Comment promouvoir son projet open source?
 
 [**Speaker deck**](https://speakerdeck.com/franckabgrall)
 
