@@ -36,4 +36,5 @@
 * [readme-md-generator](https://github.com/kefranabg/readme-md-generator)
 * [VuePress](https://github.com/vuejs/vuepress)
 * [Open Source promotion cheat sheet](https://github.com/zenika-open-source/open-source-promotion-cheat-sheet)
+* [awesome-vue-composition-api](https://github.com/kefranabg/awesome-vue-composition-api)
 * [This website](https://github.com/kefranabg/franck-abgrall.me)
